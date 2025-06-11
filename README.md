@@ -58,7 +58,12 @@ Visit 👉 [http://localhost:8501](http://localhost:8501)
 ---
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/66197664-d666-4134-913e-e50b325a63ed)
 
+![image](https://github.com/user-attachments/assets/6d00c059-1d85-4367-9a34-29006ba3c566)
+
+
+![image](https://github.com/user-attachments/assets/8190c9a1-da74-41ae-af9c-10cfbb70abce)
 
 
 ---
@@ -66,7 +71,7 @@ Visit 👉 [http://localhost:8501](http://localhost:8501)
 ## 👨‍💻 Author
 
 **SAAD BOUALI**  
-[LinkedIn Profile](https://www.linkedin.com/in/saad-bouali/)  
+[LinkedIn Profile](https://www.linkedin.com/in/saad-bouali)  
 Feel free to fork, star ⭐, or contribute!
 
 ---
