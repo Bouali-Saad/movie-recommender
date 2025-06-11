@@ -71,7 +71,7 @@ Visit 👉 [http://localhost:8501](http://localhost:8501)
 ## 👨‍💻 Author
 
 **SAAD BOUALI**  
-[LinkedIn Profile]([https://www.linkedin.com/in/saad-bouali](https://www.linkedin.com/in/saad-bouali-62a0ba318/))  
+[LinkedIn Profile](https://www.linkedin.com/in/saad-bouali-62a0ba318/)  
 Feel free to fork, star ⭐, or contribute!
 
 ---
