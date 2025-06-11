@@ -1,0 +1,228 @@
+[2025-06-10T23:43:37.828+0000] {processor.py:161} INFO - Started process (PID=168) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:43:37.829+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:43:37.831+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:43:37.830+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:43:39.999+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:43:40.232+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:43:40.231+0000] {override.py:1769} INFO - Created Permission View: can delete on DAG:movie_ml_pipeline
+[2025-06-10T23:43:40.245+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:43:40.244+0000] {override.py:1769} INFO - Created Permission View: can read on DAG:movie_ml_pipeline
+[2025-06-10T23:43:40.254+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:43:40.254+0000] {override.py:1769} INFO - Created Permission View: can edit on DAG:movie_ml_pipeline
+[2025-06-10T23:43:40.255+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:43:40.255+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:43:40.265+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:43:40.265+0000] {dag.py:3058} INFO - Creating ORM DAG for movie_ml_pipeline
+[2025-06-10T23:43:40.266+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:43:40.266+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:43:40.296+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 2.472 seconds
+[2025-06-10T23:44:10.462+0000] {processor.py:161} INFO - Started process (PID=209) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:44:10.463+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:44:10.465+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:44:10.464+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:44:11.302+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:44:11.321+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:44:11.321+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:44:11.330+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:44:11.329+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:44:11.372+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.912 seconds
+[2025-06-10T23:44:41.775+0000] {processor.py:161} INFO - Started process (PID=238) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:44:41.777+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:44:41.778+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:44:41.777+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:44:42.579+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:44:42.595+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:44:42.595+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:44:42.604+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:44:42.604+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:44:42.645+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.874 seconds
+[2025-06-10T23:45:13.544+0000] {processor.py:161} INFO - Started process (PID=267) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:45:13.545+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:45:13.546+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:45:13.546+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:45:14.458+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:45:14.476+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:45:14.475+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:45:14.485+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:45:14.485+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:45:14.524+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.982 seconds
+[2025-06-10T23:45:45.285+0000] {processor.py:161} INFO - Started process (PID=309) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:45:45.286+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:45:45.287+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:45:45.287+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:45:46.542+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:45:46.563+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:45:46.563+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:45:46.572+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:45:46.572+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:45:46.594+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 1.312 seconds
+[2025-06-10T23:46:17.049+0000] {processor.py:161} INFO - Started process (PID=339) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:46:17.051+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:46:17.052+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:46:17.051+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:46:17.918+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:46:17.935+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:46:17.935+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:46:17.945+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:46:17.944+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:46:17.964+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.918 seconds
+[2025-06-10T23:46:48.720+0000] {processor.py:161} INFO - Started process (PID=368) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:46:48.721+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:46:48.723+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:46:48.723+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:46:49.494+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:46:49.512+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:46:49.511+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:46:49.524+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:46:49.524+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:46:49.568+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.851 seconds
+[2025-06-10T23:47:20.124+0000] {processor.py:161} INFO - Started process (PID=397) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:47:20.125+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:47:20.127+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:47:20.126+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:47:20.926+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:47:20.943+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:47:20.942+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:47:20.952+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:47:20.952+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:47:20.998+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.879 seconds
+[2025-06-10T23:47:51.685+0000] {processor.py:161} INFO - Started process (PID=426) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:47:51.686+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:47:51.688+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:47:51.687+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:47:52.467+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:47:52.486+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:47:52.485+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:47:52.495+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:47:52.494+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:47:52.533+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.853 seconds
+[2025-06-10T23:48:23.163+0000] {processor.py:161} INFO - Started process (PID=455) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:48:23.165+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:48:23.166+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:48:23.166+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:48:24.013+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:48:24.030+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:48:24.030+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:48:24.039+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:48:24.039+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:48:24.083+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.925 seconds
+[2025-06-10T23:48:54.798+0000] {processor.py:161} INFO - Started process (PID=484) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:48:54.800+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:48:54.802+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:48:54.801+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:48:55.639+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:48:55.657+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:48:55.657+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:48:55.666+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:48:55.666+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:48:55.707+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.914 seconds
+[2025-06-10T23:49:26.647+0000] {processor.py:161} INFO - Started process (PID=513) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:49:26.648+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:49:26.650+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:49:26.649+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:49:27.665+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:49:27.686+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:49:27.685+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:49:27.695+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:49:27.695+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:49:27.732+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 1.089 seconds
+[2025-06-10T23:49:58.559+0000] {processor.py:161} INFO - Started process (PID=581) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:49:58.560+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:49:58.561+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:49:58.560+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:49:59.497+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:49:59.522+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:49:59.521+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:49:59.535+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:49:59.535+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:49:59.577+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 1.020 seconds
+[2025-06-10T23:50:30.049+0000] {processor.py:161} INFO - Started process (PID=610) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:50:30.050+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:50:30.052+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:50:30.051+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:50:30.946+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:50:30.965+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:50:30.965+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:50:30.974+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:50:30.974+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:50:30.991+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.946 seconds
+[2025-06-10T23:51:01.228+0000] {processor.py:161} INFO - Started process (PID=639) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:51:01.229+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:51:01.231+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:51:01.230+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:51:02.168+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:51:02.190+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:51:02.190+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:51:02.202+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:51:02.201+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:51:02.224+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.999 seconds
+[2025-06-10T23:51:32.655+0000] {processor.py:161} INFO - Started process (PID=668) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:51:32.656+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:51:32.658+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:51:32.657+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:51:33.594+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:51:33.615+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:51:33.614+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:51:33.625+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:51:33.625+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:51:33.646+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.995 seconds
+[2025-06-10T23:52:04.090+0000] {processor.py:161} INFO - Started process (PID=697) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:52:04.092+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:52:04.093+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:52:04.093+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:52:04.900+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:52:04.919+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:52:04.919+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:52:04.929+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:52:04.929+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:52:04.967+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.882 seconds
+[2025-06-10T23:52:35.390+0000] {processor.py:161} INFO - Started process (PID=726) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:52:35.391+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:52:35.392+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:52:35.392+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:52:36.276+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:52:36.295+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:52:36.294+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:52:36.303+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:52:36.303+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:52:36.343+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.957 seconds
+[2025-06-10T23:53:07.145+0000] {processor.py:161} INFO - Started process (PID=755) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:53:07.148+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:53:07.149+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:53:07.149+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:53:07.961+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:53:07.978+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:53:07.977+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:53:07.986+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:53:07.986+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:53:07.999+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.857 seconds
+[2025-06-10T23:53:38.696+0000] {processor.py:161} INFO - Started process (PID=784) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:53:38.697+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:53:38.698+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:53:38.698+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:53:39.517+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:53:39.535+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:53:39.535+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:53:39.543+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:53:39.543+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:53:39.578+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.884 seconds
+[2025-06-10T23:54:10.116+0000] {processor.py:161} INFO - Started process (PID=813) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:54:10.117+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:54:10.118+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:54:10.118+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:54:10.944+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:54:10.965+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:54:10.965+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:54:10.976+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:54:10.976+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:54:11.018+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.904 seconds
+[2025-06-10T23:54:41.157+0000] {processor.py:161} INFO - Started process (PID=842) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:54:41.158+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:54:41.159+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:54:41.159+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:54:41.927+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:54:41.943+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:54:41.943+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:54:41.952+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:54:41.951+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:54:41.993+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.840 seconds
+[2025-06-10T23:55:12.889+0000] {processor.py:161} INFO - Started process (PID=871) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:55:12.890+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:55:12.892+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:55:12.891+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:55:13.744+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:55:13.763+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:55:13.763+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:55:13.771+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:55:13.771+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:55:13.812+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.926 seconds
+[2025-06-10T23:55:44.637+0000] {processor.py:161} INFO - Started process (PID=900) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:55:44.639+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:55:44.640+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:55:44.640+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:55:45.458+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:55:45.480+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:55:45.480+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:55:45.492+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:55:45.492+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:55:45.515+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.881 seconds
+[2025-06-10T23:56:15.976+0000] {processor.py:161} INFO - Started process (PID=929) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:56:15.978+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:56:15.981+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:56:15.980+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:56:16.855+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:56:16.872+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:56:16.871+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:56:16.880+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:56:16.880+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:56:16.916+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.945 seconds
+[2025-06-10T23:56:47.699+0000] {processor.py:161} INFO - Started process (PID=958) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:56:47.700+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:56:47.701+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:56:47.701+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:56:48.495+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:56:48.513+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:56:48.513+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:56:48.522+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:56:48.521+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:56:48.540+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.845 seconds
+[2025-06-10T23:57:19.370+0000] {processor.py:161} INFO - Started process (PID=987) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:57:19.372+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:57:19.374+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:57:19.373+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:57:20.415+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:57:20.439+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:57:20.438+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:57:20.450+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:57:20.450+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:57:20.492+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 1.125 seconds
+[2025-06-10T23:57:50.919+0000] {processor.py:161} INFO - Started process (PID=1016) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:57:50.920+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:57:50.921+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:57:50.921+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:57:51.695+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:57:51.712+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:57:51.712+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:57:51.722+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:57:51.721+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:57:51.766+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.850 seconds
+[2025-06-10T23:58:22.575+0000] {processor.py:161} INFO - Started process (PID=1045) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:58:22.576+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:58:22.577+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:58:22.576+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:58:23.434+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:58:23.455+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:58:23.454+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:58:23.464+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:58:23.464+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:58:23.479+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.906 seconds
+[2025-06-10T23:58:54.158+0000] {processor.py:161} INFO - Started process (PID=1074) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:58:54.160+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:58:54.161+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:58:54.161+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:58:55.062+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:58:55.080+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:58:55.080+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:58:55.090+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:58:55.090+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:58:55.130+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.976 seconds
+[2025-06-10T23:59:26.001+0000] {processor.py:161} INFO - Started process (PID=1103) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:59:26.002+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:59:26.004+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:59:26.004+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:59:26.944+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:59:26.964+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:59:26.964+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:59:26.974+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:59:26.973+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:59:26.990+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.992 seconds
+[2025-06-10T23:59:57.501+0000] {processor.py:161} INFO - Started process (PID=1132) to work on /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:59:57.502+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ml_pipeline.py for tasks to queue
+[2025-06-10T23:59:57.503+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:59:57.502+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:59:58.378+0000] {processor.py:840} INFO - DAG(s) 'movie_ml_pipeline' retrieved from /opt/airflow/dags/ml_pipeline.py
+[2025-06-10T23:59:58.401+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:59:58.401+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2025-06-10T23:59:58.414+0000] {logging_mixin.py:188} INFO - [2025-06-10T23:59:58.414+0000] {dag.py:3823} INFO - Setting next_dagrun for movie_ml_pipeline to None, run_after=None
+[2025-06-10T23:59:58.436+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ml_pipeline.py took 0.938 seconds
